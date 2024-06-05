@@ -44,6 +44,12 @@ cd LEAF_WATCH-AI_-med-leaf-finder-
 python flask_app.py
 ```
 
+
+
+### For referance OF ML-model
+Download the trained model jupyter sorce file below:-
+[Trained Model](https://drive.google.com/drive/folders/1OLztnR-Wxs64g9zm0qPgQd_5BI8cE2Wy?usp=drive_link)
+
 ## Usage
 Once the application is running, you can use the Android app to identify and classify Ayurvedic herbs by capturing leaf images. The app uses the deployed machine learning model to provide accurate identification results.
 
