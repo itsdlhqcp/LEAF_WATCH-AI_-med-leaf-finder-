@@ -46,7 +46,7 @@ python flask_app.py
 
 
 
-### For referance OF ML-model
+### For referance ML-model
 Download the trained model jupyter sorce file below:-
 [Trained Model](https://drive.google.com/drive/folders/1OLztnR-Wxs64g9zm0qPgQd_5BI8cE2Wy?usp=drive_link)
 
