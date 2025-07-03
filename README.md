@@ -3,6 +3,8 @@
 
 ![LEAFWATCH](https://github.com/user-attachments/assets/362804f1-40e3-43a3-aba7-6aac7b29fbd2)
 
+published paper :-  https://drive.google.com/file/d/1POa8hvi3jNaissLYV8VtMyUH5gpTul4R/view
+
 ## Tech Stack Used
 - Django
 - Flask API
